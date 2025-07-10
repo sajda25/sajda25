@@ -28,22 +28,20 @@ const sajda = {
 
   funFact: "I love converting coffee ☕ into clean, scalable code 💻"
 };
-const certificates={
-hackathons:[
-{
-title :ClueQuest: "Decode. Compete. Conquer",
-link:"https://github.com/sajda25/sajda25/blob/main/certificates/b8675964-d7da-4471-9744-92739aa3fe1b.pdf"
-}
-
-
-
-],
-
-
-
-
-
-
+const certificates = {
+  hackathons: [
+    {
+      title: "ClueQuest: Decode. Compete. Conquer",
+      link: "https://github.com/sajda25/sajda25/raw/main/certificates/b8675964-d7da-4471-9744-92739aa3fe1b.pdf"
+    }
+  ]
 };
+
+
+
+
+
+
+
 
 
