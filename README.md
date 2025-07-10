@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**sajda25/sajda25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> I'm Sajda Sabnam</h1>
+<h3 align="center">🚀 MERN Stack Developer | 💡 IoT Enthusiast | ✍️ Blogger | 🎯 Life-Long Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/sajda25">
+    <img src="https://komarev.com/ghpvc/?username=sajda25&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+```javascript
+const sajda = {
+  username: "sajda25",
+  fullName: "Sajda Sabnam",
+  role: "Full Stack Developer | CSE Student | Blogger",
+  techStack: ["HTML", "CSS", "JavaScript", "Node.js", "React", "MongoDB", "MySQL", "Java", "Python"],
+  currentlyLearning: ["Next.js", "DSA in Java", "System Design"],
+  goal: "To build real-world, impactful tech using code and creativity",
+  funFact: "I love converting coffee ☕ into code 💻"
+};
+
