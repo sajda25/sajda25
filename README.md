@@ -17,10 +17,33 @@
 const sajda = {
   username: "sajda25",
   fullName: "Sajda Sabnam",
-  role: "Full Stack Developer | CSE Student | Blogger",
-  techStack: ["HTML", "CSS", "JavaScript", "Node.js", "React", "MongoDB", "MySQL", "Java", "Python"],
-  currentlyLearning: ["Next.js", "DSA in Java", "System Design"],
-  goal: "To build real-world, impactful tech using code and creativity",
-  funFact: "I love converting coffee ☕ into code 💻"
+  role: "💻 Full Stack Developer | 👩‍🎓 CSE Student | ✍️ Blogger",
+
+  languages: ["🌐 HTML", "🎨 CSS", "🟨 JavaScript", "☕ Java", "🐍 Python"],
+  frameworks_and_libraries: ["⚛️ React", "🟢 Node.js", "🚂 Express.js", "🌬️ Tailwind CSS"],
+  databases: ["🍃 MongoDB", "🐬 MySQL", "🧬 Mongoose", "📂 NoSQL"],
+  tools_and_platforms: ["🔧 Git", "🐙 GitHub", "🔥 Firebase", "🧪 Postman", "📝 VS Code", "🚀 Netlify"],
+
+  currentlyLearning: ["🚀 Next.js", "📐 System Design", "📘 DSA in Java"],
+
+  funFact: "I love converting coffee ☕ into clean, scalable code 💻"
 };
+const certificates={
+hackathons:[
+{
+title :ClueQuest: "Decode. Compete. Conquer",
+link:"https://github.com/sajda25/sajda25/blob/main/certificates/b8675964-d7da-4471-9744-92739aa3fe1b.pdf"
+}
+
+
+
+],
+
+
+
+
+
+
+};
+
 
