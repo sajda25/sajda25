@@ -34,8 +34,24 @@ const certificates = {
       title: "ClueQuest: Decode. Compete. Conquer",
       link: "https://github.com/sajda25/sajda25/blob/main/certificates/b8675964-d7da-4471-9744-92739aa3fe1b.pdf"
 
-    }
-  ]
+    },
+
+
+  ],
+learnings:[
+{
+title:"deloitte virtual internship",
+link:"https://github.com/sajda25/sajda25/blob/main/certificates/deloitte%20virtual%20internship%20certificate.pdf"
+
+
+
+},
+
+
+],
+
+
+
 };
 
 
