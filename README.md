@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center"> I'm Sajda Sabnam</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💡 IoT Enthusiast | ✍️ Blogger | 🎯 Life-Long Learner</h3>
+<h3 align="center">
+🚀 MERN Stack Developer | 💡 IoT Enthusiast | ✍️ Blogger | 🎯 Life‑Long Learner | 🧑‍💻 Freelancer
+</h3>
 
 <p align="center">
   <a href="https://github.com/sajda25">
