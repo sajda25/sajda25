@@ -37,13 +37,3 @@ const sajda = {
 
   funFact: "I love converting coffee ☕ into clean, scalable code 💻"
 };
-
-
-
-
-
-
-
-
-
-
